@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-typescript-boilerplate",
+  "name": "supercolor",
   "version": "1.0.0",
-  "description": "boilerplate for nodejs and typescript project",
+  "description": "terminal styling for nodejs projects",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
