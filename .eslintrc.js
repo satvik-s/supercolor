@@ -10,4 +10,9 @@ module.exports = {
         'plugin:node/recommended',
         'prettier',
     ],
+    rules: {
+        'node/no-unsupported-features/es-syntax': 'off',
+        'node/no-missing-import': 'off',
+        'import/no-unresolved': 'off',
+    },
 };
