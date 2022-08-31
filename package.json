@@ -30,8 +30,8 @@
   "homepage": "https://github.com/satvik-s/nodejs-typescript-boilerplate#readme",
   "devDependencies": {
     "@types/node": "18.7.14",
-    "@typescript-eslint/eslint-plugin": "5.35.1",
-    "@typescript-eslint/parser": "5.35.1",
+    "@typescript-eslint/eslint-plugin": "5.36.1",
+    "@typescript-eslint/parser": "5.36.1",
     "eslint": "8.23.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-eslint-comments": "3.2.0",
