@@ -42,7 +42,7 @@
     "npm-check-updates": "16.9.0",
     "prettier": "2.8.7",
     "ts-node": "10.9.1",
-    "typescript": "5.0.2"
+    "typescript": "5.0.3"
   },
   "lint-staged": {
     "*.{js,ts}": "npm run prettier"
